@@ -103,6 +103,9 @@ The BioMamba architecture consists of the following processing stages:
        AND TREATMENT ADVISORY
 ```
 
+<img width="846" height="2588" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/96ac7262-5719-43ea-894c-6c644a52e7c2" />
+
+
 ### Architecture Components
 
 **1. Image Preprocessing**
