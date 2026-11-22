@@ -1,0 +1,42 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Model weights and checkpoints
+weights/
+dataset/weights/
+*.pth
+*.pt
+*.ptl
+*.onnx
+*.onnx.data
+*.ckpt
+
+# Training datasets (preserve Python source in dataset/)
+datasets/
+raw_dataset/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Archives
+*.zip
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+
+# Generated project listings
+project_structure.txt
